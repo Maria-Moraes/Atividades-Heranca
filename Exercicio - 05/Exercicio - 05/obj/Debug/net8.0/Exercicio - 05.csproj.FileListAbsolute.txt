@@ -1,0 +1,15 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\bin\Debug\net8.0\Exercicio - 05.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\bin\Debug\net8.0\Exercicio - 05.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\bin\Debug\net8.0\Exercicio - 05.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\bin\Debug\net8.0\Exercicio - 05.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\bin\Debug\net8.0\Exercicio - 05.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\Exercicio - 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\Exercicio - 05.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\Exercicio - 05.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\Exercicio - 05.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\Exercicio - 05.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\refint\Exercicio - 05.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\Exercicio - 05.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\Exercicio - 05.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\ref\Exercicio - 05.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\Exercicio - 05\Exercicio - 05\obj\Debug\net8.0\Exercicio - 05.sourcelink.json
